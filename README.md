@@ -21,3 +21,15 @@ Automated UI tests for [saucedemo.com](https://www.saucedemo.com/) using Playwri
 ```bash
 git clone https://github.com/your-username/saucedemo-playwright-tests.git
 cd saucedemo-playwright-tests
+###Install Dependencies
+npm install
+npx playwright install
+3. Install Browsers
+npx playwright install
+Prerequisites
+Node.js (v18+ recommended)
+
+npm (comes with Node.js)
+
+Supported platforms: Windows
+
