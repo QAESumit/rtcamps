@@ -1,0 +1,13 @@
+{
+  "name": "saucedemo-playwright-tests",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx playwright test",
+    "report": "npx playwright show-report"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.7.0",
+    "@playwright/test": "^1.42.0",
+    "playwright-visual-regression": "^0.2.0"
+  }
+}
